@@ -1,6 +1,6 @@
 # ColorGame
 
 
-![Screenshot](docs/color 1.png)
+![Screenshot](docs/color%201.PNG)
 
-![Screenshot](docs/color2.png)
+![Screenshot](docs/color2.PNG)
